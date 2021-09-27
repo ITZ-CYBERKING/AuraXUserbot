@@ -1,5 +1,5 @@
 #!/bin/bash
-#   Copyright (C) 2021 AuraXNetwork
+#   Copyright (C) 2021 ElectroNetwork
 #
 #   Poject VΛDΣЯ is free software: 
 #   you can redistribute it and/or modify it under the terms of the GNU General Public License 
@@ -16,15 +16,21 @@
 
 
 echo """
-┏━━━┓          ┏┓    ┏┓
-┃┏━┓┃          ┃┃   ┏┛┗┓
-┃┃ ┃┣┓┏┳━┳━━┳┓┏┫┗━┳━┻┓┏┛
-┃┗━┛┃┃┃┃┏┫┏┓┣╋╋┫┏┓┃┏┓┃┃
-┃┏━┓┃┗┛┃┃┃┏┓┣╋╋┫┗┛┃┗┛┃┗┓
-┗┛ ┗┻━━┻┛┗┛┗┻┛┗┻━━┻━━┻━┛
 
-Legendary AuraXBot
-@AuraXSupport
+╭━━━┳╮╱╱╭━━━┳━━━┳━━━━┳━━━┳━━━╮
+┃╭━━┫┃╱╱┃╭━━┫╭━╮┃╭╮╭╮┃╭━╮┃╭━╮┃
+┃╰━━┫┃╱╱┃╰━━┫┃╱╰┻╯┃┃╰┫╰━╯┃┃╱┃┃
+┃╭━━┫┃╱╭┫╭━━┫┃╱╭╮╱┃┃╱┃╭╮╭┫┃╱┃┃
+┃╰━━┫╰━╯┃╰━━┫╰━╯┃╱┃┃╱┃┃┃╰┫╰━╯┃
+╰━━━┻━━━┻━━━┻━━━╯╱╰╯╱╰╯╰━┻━━━╯
+╭╮╱╭┳━━━┳━━━┳━━━┳━━╮╭━━━┳━━━━╮
+┃┃╱┃┃╭━╮┃╭━━┫╭━╮┃╭╮┃┃╭━╮┃╭╮╭╮┃
+┃┃╱┃┃╰━━┫╰━━┫╰━╯┃╰╯╰┫┃╱┃┣╯┃┃╰╯
+┃┃╱┃┣━━╮┃╭━━┫╭╮╭┫╭━╮┃┃╱┃┃╱┃┃
+┃╰━╯┃╰━╯┃╰━━┫┃┃╰┫╰━╯┃╰━╯┃╱┃┃
+╰━━━┻━━━┻━━━┻╯╰━┻━━━┻━━━╯╱╰╯
+Legendary ElectroBot
+@ELECTRO_userbot_support
 """
 
 python3 string_session.py
