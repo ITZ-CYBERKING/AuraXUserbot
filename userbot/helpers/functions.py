@@ -97,9 +97,7 @@ async def cult_small_video(video_file, output_directory, start_time, end_time):
         return None
 
 
-async def make_gif(event, file):
-    chat = "@tgstogifbot"
-    async with event.client.conversation(chat) as conv:
+async def make_gifent.client.conversation(chat) as conv:
         try:
             await silently_send_message(conv, "/start")
             await event.client.send_file(chat, file)
@@ -469,7 +467,7 @@ async def papputweet(text):
 
 async def sunnytweet(text):
     r = requests.get(
-        f"https://nekobot.xyz/api/imagegen?type=tweet&text={text}&username=sunnyleone"
+        "
     ).json()
     wew = r.get("message")
     hburl = url(wew)
